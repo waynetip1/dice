@@ -25,7 +25,11 @@ h1 {
 h2 {
   color: white;
 }
-
+.btn{
+ font-size: 2rem;
+ color: 000;
+ background-color: #4ecca3;
+}
 p {
   font-size: 2rem;
   color: #4ECCA3;
